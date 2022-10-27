@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on NVIDIA(XD)
-- 📫 How to reach me @ganter_play(inst)
+- 📫 How to reach me @ganter_play(inst, telegram)
 
 <!---
 GANT3R/GANT3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
